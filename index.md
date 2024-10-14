@@ -2,16 +2,16 @@
 
 Select a Trigger to view the documentation
 
-- [Channel](./TRIGGER/channel/README.md)
-- [CLI](./TRIGGER/cli/README.md)
-- [DataSender](./TRIGGER/datasender/README.md)
-- [FSNpiListener](./TRIGGER/FSNpiListener/README.md)
-- [Kafka](./TRIGGER/kafka/README.md)
-- [LoadTester](./TRIGGER/loadtester/README.md)
-- [MQTT](./TRIGGER/mqtt/README.md)
-- [REST](./TRIGGER/rest/README.md)
-- [TCP/UDP](./TRIGGER/tcpudp/README.md)
-- [Timer](./TRIGGER/timer/README.md)
+- [Channel](./TRIGGERS/channel/README.md)
+- [CLI](./TRIGGERS/cli/README.md)
+- [DataSender](./TRIGGERS/datasender/README.md)
+- [FSNpiListener](./TRIGGERS/FSNpiListener/README.md)
+- [Kafka](./TRIGGERS/kafka/README.md)
+- [LoadTester](./TRIGGERS/loadtester/README.md)
+- [MQTT](./TRIGGERS/mqtt/README.md)
+- [REST](./TRIGGERS/rest/README.md)
+- [TCP/UDP](./TRIGGERS/tcpudp/README.md)
+- [Timer](./TRIGGERS/timer/README.md)
 
 ---
 
