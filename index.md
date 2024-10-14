@@ -1,6 +1,6 @@
-# Project Documentation
+# Activity Documentation
 
-Welcome to the project documentation. Below are the sections with links to each folder's README file:
+Select an Activity to view the documentation
 
 - [ByteParseMapper](./ByteParseMapper/README.md)
 - [DoubleCheck](./DoubleCheck/README.md)
