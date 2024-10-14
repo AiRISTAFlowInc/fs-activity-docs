@@ -1,3 +1,20 @@
+# Trigger Documentation
+
+Select a Trigger to view the documentation
+
+- [Channel](./TRIGGER/channel/README.md)
+- [CLI](./TRIGGER/cli/README.md)
+- [DataSender](./TRIGGER/datasender/README.md)
+- [FSNpiListener](./TRIGGER/FSNpiListener/README.md)
+- [Kafka](./TRIGGER/kafka/README.md)
+- [LoadTester](./TRIGGER/loadtester/README.md)
+- [MQTT](./TRIGGER/mqtt/README.md)
+- [REST](./TRIGGER/rest/README.md)
+- [TCP/UDP](./TRIGGER/tcpudp/README.md)
+- [Timer](./TRIGGER/timer/README.md)
+
+---
+
 # Activity Documentation
 
 Select an Activity to view the documentation
